@@ -1,3 +1,11 @@
+
+## 📅 Project Timeline
+
+- **Course:** CIS 36B – Intermediate Java
+- **Code originally written:** April–June 2025
+- **Uploaded to GitHub:** July 2025
+
+  
 # Mutual Fund Tracker
 
 A Java console application that simulates a mutual fund investment tracker.
