@@ -1,5 +1,5 @@
 
-## 📅 Project Timeline
+## Project Timeline
 
 - **Course:** CIS 36B – Intermediate Java
 - **Code originally written:** April–June 2025
